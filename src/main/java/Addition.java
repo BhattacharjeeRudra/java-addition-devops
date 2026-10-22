@@ -6,6 +6,6 @@ public class Addition {
 
     public static void main(String[] args) {
         int result = add(2, 3);
-        System.out.println("Addition result: " + result);
+        System.out.println("Jenkins CI is working! Addition result: " + result);
     }
 }
